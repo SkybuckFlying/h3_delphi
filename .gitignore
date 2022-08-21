@@ -1,0 +1,4 @@
+# git ignore
+
+# Delphi Compiled Units
+*.dcu
