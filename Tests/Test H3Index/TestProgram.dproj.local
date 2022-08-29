@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.127,H:\Delphi\Libraries\Uber\H3\version 0.07 upgrade to version 0.04\Tests\Test H3Index\version 0.07\unit_test_TH3CellIndex_version_004.pas=H:\Delphi\Libraries\Uber\H3\version 0.07 upgrade to version 0.04\Tests\Test H3Index\version 0.07\unit_test_TH3Index_version_007.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.704,H:\Delphi\Tests\test Uber H3 library\test H3Index\version 0.02 protect slash safeguard the resolution\unit_test_UBER_TH3CellIndex_version_001.pas=H:\Delphi\Tests\test Uber H3 library\test H3Index\version 0.02 protect slash safeguard the resolution\unit_test_UBER_TH3CellIndex_version_002.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.323,H:\Delphi\Tests\test Uber H3 library\test H3Index\version 0.01\Unit_UBER_H3INDEX_version_001.pas=H:\Delphi\Tests\test Uber H3 library\test H3Index\version 0.01\Unit_UBER_TH3Index_version_001.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.181,H:\Delphi\Tests\test Uber H3 library\test H3Index\version 0.01\Unit1.pas=H:\Delphi\Tests\test Uber H3 library\test H3Index\version 0.01\unit_test_UBER_TH3CellIndex_version_001.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.917,=H:\Delphi\Tests\test Uber H3 library\test H3Index\version 0.01\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.472,H:\Delphi\Tests\test Uber H3 library\test H3Index\version 0.01\Unit1.pas=H:\Delphi\Tests\test Uber H3 library\test H3Index\version 0.01\Unit_UBER_H3INDEX_version_001.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.039,=H:\Delphi\Tests\test Uber H3 library\test H3Index\version 0.01\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.518,=H:\Delphi\Libraries\Uber\H3\version 0.06 add some more functionality\unit_UBER_H3_API_version_006.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.832,=H:\Delphi\Libraries\Uber\H3\version 0.07 upgrade to version 0.04\unit_UBER_H3_V4_TH3Index_BitConstants_version_007.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.346,=H:\Delphi\Libraries\Uber\H3\version 0.07 upgrade to version 0.04\unit_UBER_H3_V4_API_ALL_version_007.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.648,=H:\Delphi\Libraries\Uber\H3\version 0.07 upgrade to version 0.04\Unit_UBER_H3_V4_API_TH3Index_version_007.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.221,H:\Delphi\Tests\test Uber H3 library\test H3Index\version 0.01\Unit_UBER_TH3Index_version_001.pas=H:\Delphi\Tests\test Uber H3 library\test H3Index\version 0.01\Unit_UBER_TH3CellIndex_version_001.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.522,H:\Delphi\Libraries\Uber\H3\version 0.06 add some more functionality\unit_UBER_TH3CellIndex_BitConstants_version_006.pas=H:\Delphi\Libraries\Uber\H3\version 0.06 add some more functionality\Tests\Test H3Index\version 0.06\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.429,=H:\Delphi\Libraries\Uber\H3\git release version 0.05\Source\unit_UBER_H3_V4_API_ALL_version_007.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.990,=H:\Delphi\Libraries\Uber\H3\git release version 0.05\Source\Unit_UBER_H3_V4_TH3Index_version_007.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.457,H:\Delphi\Tests\test Uber H3 library\test H3Index\version 0.02 protect slash safeguard the resolution\Unit_UBER_TH3CellIndex_version_001.pas=H:\Delphi\Tests\test Uber H3 library\test H3Index\version 0.02 protect slash safeguard the resolution\Unit_UBER_TH3CellIndex_version_002.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.696,H:\Delphi\Tests\test Uber H3 library\test H3Index\version 0.03 modified design to make cell more generic\Unit_UBER_TH3CellIndex_version_003.pas=H:\Delphi\Tests\test Uber H3 library\test H3Index\version 0.03 modified design to make cell more generic\Unit_UBER_TH3CellIndex_version_002.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.475,=H:\Delphi\Libraries\Uber\H3\git release version 0.05\Source\unit_UBER_H3_V4_TH3Index_BitConstants_version_007.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.410,H:\Delphi\Libraries\Uber\H3\version 0.07 upgrade to version 0.04\unit_UBER_H3_V4_API_version_007.pas=H:\Delphi\Libraries\Uber\H3\version 0.07 upgrade to version 0.04\uint_UBER_H3_V4_API_version_007.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.868,=H:\Delphi\Libraries\Uber\H3\version 0.07 upgrade to version 0.04\Unit_UBER_H3_V4_TH3Index_version_007.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.533,H:\Delphi\Tests\test Uber H3 library\test H3Index\version 0.03 modified design to make cell more generic\unit_test_UBER_TH3CellIndex_version_003.pas=H:\Delphi\Tests\test Uber H3 library\test H3Index\version 0.03 modified design to make cell more generic\unit_test_UBER_TH3CellIndex_version_002.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.235,H:\Delphi\Libraries\Uber\H3\version 0.07 upgrade to version 0.04\unit_UBER_H3_V4_API_version_007.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.600,H:\Delphi\Libraries\Uber\H3\version 0.06 add some more functionality\Tests\Test H3Index\version 0.06\unit_test_TH3CellIndex_version_004.pas=H:\Delphi\Libraries\Uber\H3\version 0.06 add some more functionality\Tests\Test H3Index\version 0.06\unit_test_TH3CellIndex.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.579,=H:\Delphi\Libraries\Uber\H3\version 0.07 upgrade to version 0.04\uint_UBER_H3_V4_API_version_007.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.547,=H:\Delphi\Libraries\Uber\H3\version 0.06 add some more functionality\Tests\Test H3Index\version 0.06\unit_test_TH3CellIndex.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.750,E:\SourceCode\Project1.dproj=H:\Delphi\Tests\test Uber H3 library\test H3Index\version 0.01\TestProgram.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.612,=H:\Delphi\Libraries\Uber\H3\version 0.06 add some more functionality\Tests\Test H3Index\version 0.06\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.548,=H:\Delphi\Libraries\Uber\H3\version 0.06 add some more functionality\Unit_UBER_TH3CellIndex_version_006.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.612,=H:\Delphi\Libraries\Uber\H3\version 0.07 upgrade to version 0.04\unit_UBER_H3_V4_API_TH3Index_BitConstants_version_007.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.764,H:\Delphi\Libraries\Uber\H3\version 0.07 upgrade to version 0.04\unit_UBER_H3_API_version_006.pas=</Transaction>
+  </Transactions>
+</BorlandProject>

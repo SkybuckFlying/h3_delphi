@@ -1,4 +1,13 @@
 # git ignore
 
-# Delphi Compiled Units
+## Ignore changes to Delphi Compiled Units 
 *.dcu
+
+## Ignore changes to Delphi built EXEcutables
+*.exe
+
+## Ignore changes to Delphi Remote Debug Symbol Files
+*.rsm
+
+
+
